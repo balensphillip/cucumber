@@ -1,0 +1,8 @@
+-gitignore
+-.env file
+    
+*dependencies
+    -express -pug  -dotenv
+
+*devDependencies
+    -nodemon -mocha -chai
